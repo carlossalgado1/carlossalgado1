@@ -65,7 +65,7 @@
   </a>
 </p>
 <p>
-  <b>Nota:</b> Los logos con opacidad reducida indican tecnologías que estoy aprendiendo.
+  <b>Nota:</b> Actualemente aprendiendo Node y Java.
 </p>
 
 
