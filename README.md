@@ -53,11 +53,11 @@
   </a>
   <!-- Java (en aprendizaje) -->
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" title="Java (learning)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="opacity:0.6;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="opacity:0.10;" />
   </a>
   <!-- Node.js (en aprendizaje) -->
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js (learning)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="opacity:0.6;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="opacity:0.10;" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
@@ -65,7 +65,7 @@
   </a>
 </p>
 <p>
-  <b>Nota:</b> Los logos con opacidad reducida (<code>opacity:0.6;</code>) indican tecnologías que estás aprendiendo.
+  <b>Nota:</b> Los logos con opacidad reducida indican tecnologías que estoy aprendiendo.
 </p>
 
 
