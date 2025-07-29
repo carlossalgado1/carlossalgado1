@@ -20,36 +20,58 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Tecnologías:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  <!-- SQL (MySQL icon as ejemplo) -->
+  <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  <!-- CSS3 -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+  </a>
+  <!-- OpenAI API (logo genérico de AI) -->
+  <a href="https://openai.com/api/" target="_blank" rel="noopener noreferrer" title="OpenAI API">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="openai" width="40" height="40" style="background:#000; padding:5px; border-radius:8px;" />
+  </a>
+  <!-- Java (en aprendizaje) -->
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" title="Java (learning)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="opacity:0.6;" />
+  </a>
+  <!-- Node.js (en aprendizaje) -->
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js (learning)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="opacity:0.6;" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+  </a>
 </p>
+<p>
+  <b>Nota:</b> Los logos con opacidad reducida (<code>opacity:0.6;</code>) indican tecnologías que estás aprendiendo.
+</p>
+
 
 ### 🚀 Featured Project  
 [Control de Asistencia con Reconocimiento Facial](https://github.com/carlossalgado1/Control-de-asistencia-con-reconocimiento-facial)  
 A Python app using OpenCV and face_recognition to automate employee attendance. 
-
----
-
-### ● Lenguajes y Tecnologías:  
-- Lenguajes y Frameworks: Python (Avanzado), JavaScript, SQL, HTML/CSS, Django, Git.  
-- APIs: OpenAI API.  
-- En aprendizaje: Java, Node.js.  
-- Otras: GitHub, metodologías ágiles, comunicación remota.
