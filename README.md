@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **Python, Django, JavaScript**
 
-- 📫 How to reach me: **cs316064@gmail.com**
+- 📫 How to reach me: **salgadocarlos258@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,7 +65,7 @@
   </a>
 </p>
 <p>
-  <b>Nota:</b> Actualemente aprendiendo Node y Java.
+  <b>Nota:</b> Currently learning Node and Java.
 </p>
 
 
