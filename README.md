@@ -49,7 +49,7 @@
  
   <!-- OpenAI API (logo genérico de AI) -->
   <a href="https://openai.com/api/" target="_blank" rel="noopener noreferrer" title="OpenAI API">
-    <img src="https://images.ctfassets.net/kftzwdyauwt9/2i61iTTUDpWjwTbl6cdJkL/a60bb9ad83127262f5022aabcede01a6/DON-T_add_any_colors_to_the_Blossom.png?w=3840&q=90&fm=webp" alt="openai" width="40" height="40" style="background:#000; padding:5px; border-radius:8px;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BrG8Dy9Ri_IopCA2U7O1oOjEfzzT1pWpcX9a_7b-4e_vaB4CE33EXUsP0GbVZBQvADk&usqp=CAU" alt="openai" width="40" height="40" style="background:#000; padding:5px; border-radius:8px;" />
   </a>
   <!-- Java (en aprendizaje) -->
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" title="Java (learning)">
