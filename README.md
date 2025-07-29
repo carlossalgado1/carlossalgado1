@@ -46,13 +46,10 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
   </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  </a>
+ 
   <!-- OpenAI API (logo genérico de AI) -->
   <a href="https://openai.com/api/" target="_blank" rel="noopener noreferrer" title="OpenAI API">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="openai" width="40" height="40" style="background:#000; padding:5px; border-radius:8px;" />
+    <img src="https://images.ctfassets.net/kftzwdyauwt9/2i61iTTUDpWjwTbl6cdJkL/a60bb9ad83127262f5022aabcede01a6/DON-T_add_any_colors_to_the_Blossom.png?w=3840&q=90&fm=webp" alt="openai" width="40" height="40" style="background:#000; padding:5px; border-radius:8px;" />
   </a>
   <!-- Java (en aprendizaje) -->
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" title="Java (learning)">
